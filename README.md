@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hammeruha9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hammeruha
+- 👀 I’m interested in ... coding
+- 🌱 I’m currently learning ... coding
+- 💞️ I’m looking to collaborate on ... anyone
+- 📫 How to reach me ... Instagram.. telegram... WhatsApp
+
 
 <!---
 hammeruha9/hammeruha9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
